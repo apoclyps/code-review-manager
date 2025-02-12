@@ -1,4 +1,4 @@
-click==8.1.6
+click==8.1.7
 humanize==4.6.0
 idna==3.4
 keyboard==0.13.5
